@@ -1,4 +1,4 @@
-Graphis and logos related to Embarcadero Delphi's [Visual Component Library (**VCL**)](https://docwiki.embarcadero.com/RADStudio/en/VCL)
+Graphics and logos related to Embarcadero Delphi's [Visual Component Library (**VCL**)](https://docwiki.embarcadero.com/RADStudio/en/VCL)
 
 In the early version of Delphi when you created a new VCL component, the default icon was a cube, sphere, and cone.  
 
